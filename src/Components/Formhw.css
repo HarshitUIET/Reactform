@@ -1,0 +1,37 @@
+.form-to{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 2rem;
+    position: relative;
+}
+
+.input-tag{
+    width: 72rem;
+    margin-top: 1rem;
+    padding: 5px;
+}
+
+.form-row{
+    display: inline-flex;
+}
+
+.check-prep{
+    position: relative;
+    margin: auto;
+   width: max-content;
+}
+
+.sub-btn{
+    margin-top: 1rem;
+    border-radius: 4px;
+}
+
+.sub-btn:hover{
+    background-color: darkcyan;
+    color: white;
+}
+
+.input-tag{
+      
+}
